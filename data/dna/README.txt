@@ -4,6 +4,7 @@ DNA and DNA + Dye PDBs
 
 cy5_duplex.pdb
 
+FOR COARSE GRAINING DNA-DYE, WE WILL START WITH THIS FILE. IT IS THE MOST STRAIGHTFORWARD.
 DNA double helix, with two CY5 dyes. Dyes are incorporated on opposite strands, using a 3-carbon double linker. Each dye is incorporated into the DNA backbone, taking the place of a nucleotide.   This PDB has been energy-minimized, but not fully equilibrated. 
 
 -----
@@ -13,6 +14,7 @@ nanotube_long.pdb
 Long 6-helix DNA nanotube, seqences taken from (1). DNA only, no dyes are present. This was equilibrated. 
 
 ----
+
 nanotube_short.pdb
 
 Short 6-helix DNA nanotube, sequences taken from (1). DNA only, no dyes are present. This was equilibrated.  Some fraying can be seen at the end. 
@@ -32,7 +34,7 @@ Short 6-helix nanotube, seqences takes from (1). DNA-portion is the same as nano
 
 ---
 
-dna_holiday_junction_1.pdb  AND dna_doliday_junction_2.pdb
+dna_holiday_junction_1.pdb  AND dna_holiday_junction_2.pdb
 
 DNA Holiday junction with a single-linked CY5 dye in the center. This linker is district from the double-linker and mod-T linkers. 1 and 2 varientions are slightly different starting positions.  These structures have been lightly equilibrated. 
 
